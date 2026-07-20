@@ -1,22 +1,19 @@
 <table>
 <tr>
 
-<td width="180">
+<td width="150">
 
-<img src="<img width="810" height="1080" alt="WhatsApp Image 2026-05-26 at 7 59 03 PM" src="https://github.com/user-attachments/assets/27d21f85-65db-4e0d-8c1c-0bc471419b5d"/>
-" width="150"/>
+<img src="https://github.com/user-attachments/assets/27d21f85-65db-4e0d-8c1c-0bc471419b5d" width="120"/>
 
 </td>
 
 <td>
 
-<h1>ABDIASIS HIS SIMAIL</h1>
+# ABDIASIS HIS SIMAIL
 
-<p>
 💻 Front-End Developer • 🎓 Computer Science Student • 🚀 Open to Freelance Work
-</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&width=550&lines=Front-End+Web+Developer;Building+Modern+Responsive+Websites;React+Developer+in+Progress;Computer+Science+Student;Open+to+Freelance+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&width=500&lines=Front-End+Web+Developer;Building+Modern+Responsive+Websites;React+Developer+in+Progress;Computer+Science+Student;Open+to+Freelance+Projects" />
 
 <br>
 
@@ -33,7 +30,7 @@
 
 I'm **ABDIASIS HIS SIMAIL**, a passionate Front-End Web Developer and Computer Science Student at the University of Hargeisa.
 
-I enjoy creating modern, responsive and user-friendly websites that help businesses and individuals establish a strong online presence.
+I enjoy building modern, responsive and user-friendly websites that help businesses and individuals establish a strong online presence.
 
 ### 🎯 Current Focus
 
@@ -90,37 +87,33 @@ UI/UX       ███████░░░ 70%
 
 ## 🏠 Somaliland Property Hub
 
-Modern Real Estate Website for property listing and management.
+Modern Real Estate Website
 
-🔗 Live Demo:
-https://abdiasis-arch.github.io/Somaliland-Property-Hub/
+🔗 https://abdiasis-arch.github.io/Somaliland-Property-Hub/
 
 ---
 
 ## 🍽️ Restaurant Website
 
-Modern Restaurant Website with elegant UI.
+Luxury Restaurant Website
 
-🔗 Live Demo:
-(Add Link)
+🔗 Add Link Here
 
 ---
 
 ## 🏥 Medical Clinic Website
 
-Healthcare website with appointment features.
+Professional Healthcare Website
 
-🔗 Live Demo:
-(Add Link)
+🔗 Add Link Here
 
 ---
 
 ## 🎓 School Website
 
-Educational platform with responsive design.
+Modern Educational Platform
 
-🔗 Live Demo:
-(Add Link)
+🔗 Add Link Here
 
 ---
 
@@ -152,7 +145,7 @@ Educational platform with responsive design.
 
 ---
 
-# 📌 Current Goals
+# 📌 2026 Goals
 
 - Master React.js
 - Learn Next.js
@@ -195,14 +188,6 @@ Educational platform with responsive design.
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
