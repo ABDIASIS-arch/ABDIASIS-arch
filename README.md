@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👨‍💻 ABDIASIS HIS
+# 👨‍💻 ABDIASIS HIS SIMAIL
 
-<img width="810" height="1080" alt="WhatsApp Image 2026-05-26 at 7 59 03 PM" src="https://github.com/user-attachments/assets/761e5511-c103-4944-8dff-a2fc551b512a"
+<img src="https://github.com/ABDIASIS-arch.png" width="220" />
 
 ### Front-End Developer • Computer Science Student • Open to Freelance Work
 
@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ABDIASIS-arch&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=ABDIASIS-arch&style=for-the-badge&color=blue"/>
 
 </div>
 
@@ -18,11 +18,11 @@
 
 # 🚀 About Me
 
-I'm a passionate **Front-End Web Developer** and **Computer Science Student** at the **University of Hargeisa**.
+I'm **ABDIASIS HIS SIMAIL**, a passionate **Front-End Web Developer** and **Computer Science Student** at the **University of Hargeisa**.
 
-I enjoy building modern, responsive and user-friendly websites that help businesses and individuals establish a strong online presence.
+I specialize in creating modern, responsive, and user-friendly websites that help businesses establish a strong online presence.
 
-### Current Focus
+### 🎯 Current Focus
 
 - ⚛️ Learning React.js
 - 🎨 Modern UI/UX Design
@@ -36,6 +36,19 @@ I enjoy building modern, responsive and user-friendly websites that help busines
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" />
 </p>
+
+---
+
+# 📈 Skill Level
+
+```text
+HTML        ██████████ 95%
+CSS         █████████░ 90%
+JavaScript  ████████░░ 80%
+React.js    ██████░░░░ 60%
+Git/GitHub  ████████░░ 80%
+UI/UX       ███████░░░ 70%
+```
 
 ---
 
@@ -115,18 +128,18 @@ Modern Educational Platform
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophies
 
-- 🚀 Built multiple responsive websites
-- 💻 Active GitHub Developer
-- 🎓 Computer Science Student
-- 🌍 Building projects for local businesses
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ABDIASIS-arch&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
-# 🎯 2025 Goals
+# 🎯 2026 Goals
 
 - Master React.js
+- Learn Next.js
 - Build Full Stack Applications
 - Launch Professional Portfolio
 - Start International Freelancing
@@ -156,6 +169,8 @@ Modern Educational Platform
 
 <div align="center">
 
-## ⚡ Code • Learn • Build • Repeat
+### 🚀 Turning Ideas Into Modern Web Experiences
+
+⭐ Thanks for visiting my profile!
 
 </div>
