@@ -1,5 +1,5 @@
 # 💫 About Me:
-ABDIASIS HIS SIMAIL<br><br>💻 Front-End Developer • 🎓 Computer Science Student • 🚀 Open to Freelance Work <br><br>🚀, a passionate Front-End Web Developer and Computer Science Student at the University of Hargeisa.<br><br>I enjoy building modern, responsive and user-friendly websites that help businesses and individuals establish a strong online presence.<br><br>🎯 Current Focus<br><br>- ⚛️ Learning React.js<br>- 🎨 Modern UI/UX Design<br>- 🌐 Building Real-World Projects<br>- 💼 Preparing for Freelance Opportunities<br>- 🚀 Improving JavaScript Skills
+ABDIASIS HIS SIMAIL<br><br>💻 Front-End Developer • 🎓 Computer Science Student • 🚀 Open to Freelance Work <br><br>, A passionate Front-End Web Developer and Computer Science Student at the University of Hargeisa.<br><br>I enjoy building modern, responsive and user-friendly websites that help businesses and individuals establish a strong online presence.<br><br>🎯 Current Focus<br><br>- ⚛️ Learning React.js<br>- 🎨 Modern UI/UX Design<br>- 🌐 Building Real-World Projects<br>- 💼 Preparing for Freelance Opportunities<br>- 🚀 Improving JavaScript Skills
 
 
 ## 🌐 Socials:
