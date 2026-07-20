@@ -1,26 +1,39 @@
-<div align="center">
+<table>
+<tr>
 
-# 👨‍💻 ABDIASIS HIS SIMAIL
+<td width="180">
 
-<img src="https://github.com/ABDIASIS-arch.png" width="220" />
+<img src="<img width="810" height="1080" alt="WhatsApp Image 2026-05-26 at 7 59 03 PM" src="https://github.com/user-attachments/assets/27d21f85-65db-4e0d-8c1c-0bc471419b5d" />
+" width="150"/>
 
-### Front-End Developer • Computer Science Student • Open to Freelance Work
+</td>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&width=800&lines=Front-End+Web+Developer;Building+Modern+Websites;React+Developer+in+Progress;University+of+Hargeisa+Student;Open+to+Freelance+Projects" />
+<td>
+
+<h1>ABDIASIS HIS SIMAIL</h1>
+
+<p>
+💻 Front-End Developer • 🎓 Computer Science Student • 🚀 Open to Freelance Work
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&width=550&lines=Front-End+Web+Developer;Building+Modern+Responsive+Websites;React+Developer+in+Progress;Computer+Science+Student;Open+to+Freelance+Projects" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=ABDIASIS-arch&style=for-the-badge&color=blue"/>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🚀 About Me
 
-I'm **ABDIASIS HIS SIMAIL**, a passionate **Front-End Web Developer** and **Computer Science Student** at the **University of Hargeisa**.
+I'm **ABDIASIS HIS SIMAIL**, a passionate Front-End Web Developer and Computer Science Student at the University of Hargeisa.
 
-I specialize in creating modern, responsive, and user-friendly websites that help businesses establish a strong online presence.
+I enjoy creating modern, responsive and user-friendly websites that help businesses and individuals establish a strong online presence.
 
 ### 🎯 Current Focus
 
@@ -28,6 +41,7 @@ I specialize in creating modern, responsive, and user-friendly websites that hel
 - 🎨 Modern UI/UX Design
 - 🌐 Building Real-World Projects
 - 💼 Preparing for Freelance Opportunities
+- 🚀 Improving JavaScript Skills
 
 ---
 
@@ -39,7 +53,7 @@ I specialize in creating modern, responsive, and user-friendly websites that hel
 
 ---
 
-# 📈 Skill Level
+# 📈 Skill Progress
 
 ```text
 HTML        ██████████ 95%
@@ -68,13 +82,15 @@ UI/UX       ███████░░░ 70%
 
 ✅ Responsive Web Design
 
+✅ Website Redesign
+
 ---
 
 # 🌟 Featured Projects
 
 ## 🏠 Somaliland Property Hub
 
-Modern Real Estate Website
+Modern Real Estate Website for property listing and management.
 
 🔗 Live Demo:
 https://abdiasis-arch.github.io/Somaliland-Property-Hub/
@@ -83,28 +99,28 @@ https://abdiasis-arch.github.io/Somaliland-Property-Hub/
 
 ## 🍽️ Restaurant Website
 
-Luxury Restaurant Website
+Modern Restaurant Website with elegant UI.
 
 🔗 Live Demo:
-(Add Link Here)
+(Add Link)
 
 ---
 
 ## 🏥 Medical Clinic Website
 
-Professional Healthcare Website
+Healthcare website with appointment features.
 
 🔗 Live Demo:
-(Add Link Here)
+(Add Link)
 
 ---
 
 ## 🎓 School Website
 
-Modern Educational Platform
+Educational platform with responsive design.
 
 🔗 Live Demo:
-(Add Link Here)
+(Add Link)
 
 ---
 
@@ -136,7 +152,7 @@ Modern Educational Platform
 
 ---
 
-# 🎯 2026 Goals
+# 📌 Current Goals
 
 - Master React.js
 - Learn Next.js
@@ -144,6 +160,22 @@ Modern Educational Platform
 - Launch Professional Portfolio
 - Start International Freelancing
 - Contribute to Open Source
+
+---
+
+# 🌍 Location
+
+📍 Hargeisa, Somaliland
+
+---
+
+# 📫 Contact Me
+
+📧 Email: updyasiis4141@gmail.com
+
+🌐 Portfolio: https://abdiasis-arch.github.io
+
+🐙 GitHub: https://github.com/ABDIASIS-arch
 
 ---
 
@@ -167,10 +199,20 @@ Modern Educational Platform
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 <div align="center">
 
-### 🚀 Turning Ideas Into Modern Web Experiences
+## 🚀 Turning Ideas Into Modern Web Experiences
 
-⭐ Thanks for visiting my profile!
+### Code • Learn • Build • Repeat
+
+⭐ Thanks for visiting my profile.
 
 </div>
