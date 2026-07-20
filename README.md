@@ -2,7 +2,8 @@
 
 # 👨‍💻 ABDIASIS HIS
 
-<img src="./profile.jpg" width="180" style="border-radius:50%;" />
+<img src="<img width="810" height="1080" alt="WhatsApp Image 2026-05-26 at 7 59 03 PM" src="https://github.com/user-attachments/assets/761e5511-c103-4944-8dff-a2fc551b512a" />
+" width="180" style="border-radius:50%;" />
 
 ### Front-End Developer • Computer Science Student • Open to Freelance Work
 
